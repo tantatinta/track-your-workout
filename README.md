@@ -8,6 +8,6 @@ Users can view, create and track daily workouts, log multiple exercises in a wor
 ## Deployed site
 [Check it out here](https://pure-inlet-27177.herokuapp.com/)
 
-![picture1](.public/assets/img/1.PNG)
+![picture1](./public/assets/img/1.PNG)
 ![picture2](./public/assets/img/2.PNG)
 ![picture3](./public/assets/img/3.PNG)
